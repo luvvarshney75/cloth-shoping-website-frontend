@@ -58,19 +58,6 @@ website-frontend/
 └── README.md
 
 
-## 📸 Screenshots
-
-### Home Page
-
-![Home Page](./screenshots/home.png)
-
-### Collection Page
-
-![Collection Page](./screenshots/collection.png)
-
-### Product Page
-
-![Product Page](./screenshots/product.png)
 
 ### Cart Page
 
