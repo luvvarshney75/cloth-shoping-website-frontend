@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+QLD+Hand:wght@400..700&family=Google+Sans+Flex:opsz,wght@6..144,1..1000&family=Libre+Caslon+Condensed:ital,wght@0,400..700;1,400..700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+
+a.active hr{
+  display:block
+}
+
+*{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.font-google{
+  font-family: Google Sans Flex, sans-serif;
+}
