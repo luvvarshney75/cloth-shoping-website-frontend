@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛍️ Forever - E-Commerce Website
 
 A modern and responsive e-commerce website built using **React.js** and **Vite**.  
@@ -62,3 +63,13 @@ website-frontend/
 ### Cart Page
 
 ![Cart Page](./screenshots/cart.png)
+=======
+## 📸 Screenshots
+
+### Home Page
+
+![Forever Home Page](./screenshots/image.png)
+
+### Products Page
+
+
