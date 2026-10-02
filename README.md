@@ -1,19 +1,59 @@
-# React + Vite
+# 🛍️ Forever - E-Commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and responsive e-commerce website built using **React.js** and **Vite**.  
+The project provides a clean shopping experience with product collections, product details, cart functionality, and responsive navigation.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Coming soon...
 
-## React Compiler
+## 📌 Features
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+- 🏠 Responsive Home page
+- 🛍️ Product collections
+- 🔍 Product search
+- 📦 Product details
+- 🛒 Shopping cart
+- 👤 User profile navigation
+- 📱 Fully responsive design
+- 🧭 Navigation using React Router
+- 🎨 Modern UI using Tailwind CSS
+- ⚡ Fast development using Vite
 
-Note: This will impact Vite dev & build performances.
-You can also try [the experimental native React Compiler support in plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md#rust-react-compiler) by using `compiler: true` in the plugin options instead of using the Babel plugin.
+## 🛠️ Technologies Used
 
-## Expanding the Oxlint configuration
+- **React.js**
+- **Vite**
+- **Tailwind CSS**
+- **React Router DOM**
+- **JavaScript (ES6+)**
+- **HTML5**
+- **CSS3**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 📂 Project Structure
+
+```text
+website-frontend/
+│
+├── public/
+│
+├── src/
+│   ├── assets/
+│   │   └── frontend_assets/
+│   │
+│   ├── components/
+│   │
+│   ├── pages/
+│   │
+│   ├── context/
+│   │
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── .gitignore
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
+
