@@ -36,7 +36,7 @@ Coming soon...
 ### Home Page
 
 ![Forever Home Page](./screenshots/image.png)
-
+![Forever Home Page](./screenshots/content.png)
 
 ## 📂 Project Structure
 
