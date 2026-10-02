@@ -31,6 +31,13 @@ Coming soon...
 - **HTML5**
 - **CSS3**
 
+## 📸 Screenshot
+
+### Home Page
+
+![Forever Home Page](./screenshots/image.png)
+
+
 ## 📂 Project Structure
 
 ```text
